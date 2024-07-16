@@ -124,6 +124,4 @@ La API utiliza Spring Security para manejar la autenticación y autorización. L
 
 Para una documentación más detallada sobre los parámetros, cuerpos de las peticiones y respuestas de cada endpoint, se puede explorar la documentación Swagger de la API accediendo a `/v3/api-docs`.
 
-## Desarrollado
 
-Este proyecto fue desarrollado por Julia Daniela Rodriguez 
